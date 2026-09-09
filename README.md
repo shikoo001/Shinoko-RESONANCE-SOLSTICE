@@ -21,15 +21,15 @@
 
 ## Changelog 
 
-Added God Mode
-Added Infinite Cost
-Added Zero Card Cost
-Added Damage Multiplier
-Added Enemy Freeze
-Added Global Speed
-Added Train Speed
-Added Auto Pick Goods
-Added Huge Interaction Range
+* Added God Mode
+* Added Infinite Cost
+* Added Zero Card Cost
+* Added Damage Multiplier
+* Added Enemy Freeze
+* Added Global Speed
+* Added Train Speed
+* Added Auto Pick Goods
+* Added Huge Interaction Range
 
 
 

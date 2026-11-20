@@ -1,38 +1,37 @@
 <div align="center">
 
-<img src="https://github.com/shikoo001/Shinoko-RESONANCE-SOLSTICE/blob/main/73737df8517de97edb200bd81504d13e.jpg" width="320"/>
+<!-- Замени ссылку на скриншот своего меню -->
+<img src="" alt="Preview" />
 
-# Shinoko-RESONANCE-SOLSTICE
+<br/>
 
-
+<!-- Замени YOUR_INVITE_CODE на код приглашения в твой Discord -->
 <a href="https://discord.gg/MAfNE4rppc">
-  <img src="https://img.shields.io/badge/Discord-Join%20Server-5865F2?logo=discord&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/discord/1479905422755233854?color=5865F2&label=DISCORD&logo=discord&logoColor=white&style=for-the-badge" alt="Discord" />
 </a>
-
 
 </div>
 
 ---
 
-## Open Menu
-**Insert**
+<h1 align="center">Getting Started</h1>
+
+### Usage
+
+1. Download the latest release.
+2. Launch `Injector.exe`.
+3. Start the game launcher manually.
+4. Start the game manually.
+5. Once the game is open, press the `INSERT` key to open the GUI.
 
 ---
 
-## Changelog 
+<h1 align="center">Features</h1>
 
-* Added God Mode
-* Added Infinite Cost
-* Added Zero Card Cost
-* Added Damage Multiplier
-* Added Enemy Freeze
-* Added Global Speed
-* Added Train Speed
-* Added Auto Pick Goods
-* Added Huge Interaction Range
+### Player
 
 
+### World
 
-
-
+### Visuals
 
